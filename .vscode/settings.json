@@ -60,5 +60,13 @@
   "chat.includeReferencedInstructions": true,
   "chat.useAgentsMdFile": true,
   // limit Intellisense help in the terminal
-  "terminal.integrated.initialHint": false
+  "terminal.integrated.initialHint": false,
+  "cSpell.words": [
+    "adipisicing",
+    "asmet",
+    "consectetur",
+    "elit",
+    "Molestiae",
+    "tenetur"
+  ]
 }

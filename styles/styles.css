@@ -22,7 +22,7 @@ img {
 }
 
 p {
-    padding: 10px;
+    padding: 0px;
 }
 
 main {
@@ -50,10 +50,6 @@ main img {
     box-shadow: 0 0 30px #333;
     border: 1px solid rgb(0 0 0 / 10%);
     padding: 3px;
-}
-
-p {
-    padding: 0;
 }
 
 footer {

@@ -1,6 +1,5 @@
 :root {
     --primary-color: #1B2A38;
-    --secondary-color: #F2B705;
     --accent1-color: #800000;
     --accent2-color: #3E8E5A;
     --heading-font: "Bebas Neue", Arial, sans-serif;
@@ -58,7 +57,7 @@ article {
     height: auto;
 }
 
-.hero h1 {
+h1 {
     position: absolute;
     top: 20px;
     width: 100%;

@@ -33,7 +33,7 @@ footer {
 h1,
 h2 {
     font-family: var(--heading-font);
-    color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
 nav,
@@ -70,6 +70,7 @@ h1 {
 }
 
 .hero article img {
+    position: absolute;
     float: right;
     width: 125px;
 }

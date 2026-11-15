@@ -8,7 +8,7 @@
 
 header {
     background-color: var(--primary-color);
-    color: var(--accent2-color)
+    color: var(--accent2-color);
 }
 
 * {
@@ -51,12 +51,6 @@ article {
     position: relative;
 }
 
-.hero img {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-
 h1 {
     position: absolute;
     top: 20px;
@@ -71,4 +65,10 @@ h1 {
 .hero article img {
     float: right;
     width: 125px;
+}
+
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
 }

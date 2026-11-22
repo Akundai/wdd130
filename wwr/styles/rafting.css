@@ -77,9 +77,6 @@ h1 {
     color: var(--secondary-color);
 }
 
-/* ===================== ADDED BELOW ===================== */
-
-/* HEADER: CSS Grid (logo | nav) - merged into ONE rule */
 header {
     display: grid;
     grid-template-columns: 120px 1fr;
@@ -94,7 +91,6 @@ header img {
     height: auto;
 }
 
-/* NAV: CSS Flex (links in a row) */
 header nav {
     margin: 0;
     padding: 0;
@@ -122,7 +118,6 @@ header nav a:hover {
     background-color: var(--accent2-color);
 }
 
-/* HISTORY: text | (heading + image) | text */
 .history {
     display: grid;
     grid-template-columns: 1fr 180px 1fr;
@@ -157,7 +152,6 @@ header nav a:hover {
     height: auto;
 }
 
-/* ADVENTURES: heading on the left, five figures across */
 .gallery {
     display: flex;
     justify-content: space-between;
@@ -180,7 +174,6 @@ header nav a:hover {
     text-align: left;
 }
 
-/* FOOTER: text on the left, three social icons horizontal on the right */
 footer {
     display: flex;
     justify-content: space-between;
